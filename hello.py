@@ -1,3 +1,1 @@
-# _*_ coding:utf-8 _*_
-
-print('Hello world!')
+print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') print('hello world') 
